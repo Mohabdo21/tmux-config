@@ -120,3 +120,7 @@ rm -rf ~/.tmux/plugins/
 ```
 
 2. Reinstall plugins with `Prefix + I`
+
+## Note
+
+This is my personal tmux configuration, feel free to fork and modify it to suit your needs. If you have any suggestions or improvements, please open an issue or pull request. Enjoy!
